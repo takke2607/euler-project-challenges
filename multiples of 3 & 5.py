@@ -12,4 +12,4 @@ final_answer = sum(list3) + sum(list5)
 print "final answer:%d"%(final_answer)
 print list3
 print list5
-print "hello"
+
